@@ -1,0 +1,59 @@
+{
+  "id": "013836a4-716b-4f01-8834-a14dc99923b1",
+  "name": "respondeInsultos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "acc80337-3706-472d-8033-5fdb1d01dc10",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "de11215c-c58c-4136-9155-d3c8d77e1546",
+          "required": false,
+          "dataType": "@insulto",
+          "name": "insulto",
+          "value": "$insulto",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Asi no llevamos",
+            "Vaya boquita"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

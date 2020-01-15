@@ -1,0 +1,64 @@
+[
+  {
+    "id": "38e970bc-5eeb-48fc-9395-5edd2fe89624",
+    "data": [
+      {
+        "text": "insulto",
+        "alias": "insulto",
+        "meta": "@insulto",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cualquier cosa",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac5a0034-3291-44c1-8282-8b550f68ab5c",
+    "data": [
+      {
+        "text": "insulto",
+        "alias": "insulto",
+        "meta": "@insulto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3872cfff-4fba-4e70-ad5a-d8e7eb039f55",
+    "data": [
+      {
+        "text": "cualquier cosa",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insulto",
+        "alias": "insulto",
+        "meta": "@insulto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

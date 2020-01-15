@@ -1,0 +1,60 @@
+{
+  "id": "0ec09a03-ca8a-4555-a7c4-bb4d5f55cf69",
+  "name": "usuarioInsulta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00abddd6-10f9-4c1d-ba9a-437c0fcb3334",
+          "required": false,
+          "dataType": "@insulto",
+          "name": "insulto",
+          "value": "$insulto",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4da65c18-1b39-4ea6-8383-292bf3c05eca",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Oh vaya boquita",
+            "Así nos llevamos qlero",
+            "¿Con esa boquita comes?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

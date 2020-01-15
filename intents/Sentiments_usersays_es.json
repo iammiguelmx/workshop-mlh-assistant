@@ -1,0 +1,112 @@
+[
+  {
+    "id": "eaf194b7-604d-467d-b884-65901b46dda5",
+    "data": [
+      {
+        "text": "¿Como se sienten las personas respecto a ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b0f7fca-ed55-4e05-960d-fca5f7eb6a28",
+    "data": [
+      {
+        "text": "¿Como se sienten los ",
+        "userDefined": false
+      },
+      {
+        "text": "animales",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d663d8e4-e596-4455-a602-4b9c9e72d715",
+    "data": [
+      {
+        "text": "¿Como se sienten las personas cuando se muere un ",
+        "userDefined": false
+      },
+      {
+        "text": "familirar",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d854908-dd8f-4144-ad63-7efdf101146a",
+    "data": [
+      {
+        "text": "¿Como se sienten las personas en ",
+        "userDefined": false
+      },
+      {
+        "text": "venezuela",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0167fd23-2c29-4d9d-b3d5-2cc85e864398",
+    "data": [
+      {
+        "text": "¿Cómo se sienten las personas respecto al ",
+        "userDefined": false
+      },
+      {
+        "text": "enamoramiento",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
